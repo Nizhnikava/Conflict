@@ -1,0 +1,14 @@
+/.gradle/
+build/
+.idea
+.classpath
+.project
+.gradle/
+.settings/
+test-output/
+bin/
+/caches/
+.sonar/
+.sonarlint/
+.metadata/
+.recommenders/
